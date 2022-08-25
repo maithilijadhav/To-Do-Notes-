@@ -1,2 +1,3 @@
 # To-Do-Notes-
-A To-Do Notes app built on Android Studio with Java. To store the notes created by the user, Realm Database is used. 
+A simple To-Do Notes app built on Android Studio with Java. This app enables user to create/delete notes from the Realm database allows user to see when note was created.
+
